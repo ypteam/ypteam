@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @ypteam
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning cyber security
-- ⚡ Fun fact: im batman
+# 👋 Hi, I'm ypteam!
 
-<!---
-ypteam/ypteam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!  
+I'm a high school student passionate about technology and always eager to learn more.
+
+## 🚀 About Me
+- 🎓 Currently exploring new horizons in computer science.
+- 🐍 Basic skills in Python & Java.
+- 🛡️ Interested in cybersecurity fundamentals.
+- 💡 Always open to collaborating and learning from others.
+
+## 🛠️ Tools & Skills
+- Python (beginner)
+- Java (beginner)
+- Cybersecurity basics
+
+## 📚 Motto
+> "Every expert was once a beginner. Let's code our future together!"
+
+Thanks for stopping by! Feel free to check out my repositories and watch my journey as I grow as a developer.
